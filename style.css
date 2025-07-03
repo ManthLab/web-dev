@@ -1,0 +1,93 @@
+h1 {
+    color:red;
+}
+
+h2 {
+    color:green;
+}
+
+p {
+    color:blue;
+}
+
+button {
+    color:darkorange;
+    background-color:black;
+}
+
+body {
+    background-color:#03f4fc;
+}
+
+/* <!--color:rgb(97165,42);-->
+<!--background-color:rgb(191,34,115);-->
+
+<!--color:#ff0000; -->
+<!--background-color:#03f4fc;-->
+
+{
+
+} */
+
+#headingTwo {
+    color:brown;
+}
+
+#headingThree {
+    color:navy;
+}
+
+#headingOne {
+    color:magenta;
+}
+
+.myClass {
+    color:magenta;
+}
+
+a{
+    text-decoration:none;
+}
+
+h1{
+    text-decoration:black underline overline;
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+#one{
+    color:maroon;
+    text-align:left;
+    text-decoration:white line-through;
+    text-transform:uppercase;
+}
+
+#two{
+    color:cadetblue;
+    text-align:right;
+    font-weight:900;
+    font-family:cursive,arial;
+    text-transform:lowercase;
+
+}
+
+#three{
+    color:midnightblue;
+    text-align:left;
+    font-size:50px;
+}
+
+#four{
+    text-decoration:overline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+}
+
+#five{
+    line-height:30px;
+    text-transform:capitalize;
+}
+ 

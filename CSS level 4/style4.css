@@ -1,0 +1,39 @@
+body{
+    text-align:center
+}
+
+div{
+    height: 70px;
+    width: 70px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color:blueviolet;
+}
+
+#box3{
+    background-color:crimson;
+}
+
+#box4{
+    background-color:cadetblue;
+}
+
+#box5{
+    background-color:deeppink;
+}
+
