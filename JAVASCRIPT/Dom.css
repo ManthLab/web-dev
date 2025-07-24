@@ -1,0 +1,68 @@
+body {
+
+    background-color:deeppink;
+}
+
+h1 {
+    color:mediumblue;
+}
+
+h4 {
+    color: yellow;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+button {
+    background-color:darkmagenta;
+    color: white;
+}
+
+.myClass {
+    background-color:fuchsia;
+}
+
+
+#prac{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+
+.box{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+
+
+#practice{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.loop{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+
+#elements{
+    height: 200px;
+    width: 150px;
+    background-color: lightcoral;
+}

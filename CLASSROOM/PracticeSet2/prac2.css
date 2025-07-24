@@ -1,0 +1,23 @@
+body{
+    background-color:#5D8AA8;
+}
+
+*{
+    font-family:'Times New Roman';
+}
+
+
+h1{
+    color:black;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}
